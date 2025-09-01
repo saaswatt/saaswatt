@@ -1,7 +1,8 @@
 # 👋 Hey — I’m Saswat
-**Cybersecurity · Network Security · IAM · Python Automation** 
-**📫 How to reach me- [GMAIL] (saswatkumar.pandey@gmail.com)**
-                    **[LINKEDIN] (www.linkedin.com/in/saswatkumarpandey)**
+**Cybersecurity · Network Security · IAM · Python Automation** <br>
+**📫 How to reach me-** <br> 
+**Email- saswatkumar.pandey@gmail.com** <br>
+**LINKEDIN- www.linkedin.com/in/saswatkumarpandey**
 
 ## 🛡️ About Me
 🎓 B.Tech, CSE (Specialization: Cybersecurity) — 3rd year (Expected graduation: 2026) — ITER, SOA
